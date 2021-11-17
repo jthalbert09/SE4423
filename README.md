@@ -1,1 +1,1 @@
-A bus is fixed!
+A bug is fixed!
